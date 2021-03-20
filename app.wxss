@@ -1,0 +1,27 @@
+/* 全局css */
+@import "./styles/iconfont.wxss";  
+
+/* 初始化样式 */
+page,view,text,swiper,swiper-item,image,navigator {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* 
+  主题变量
+*/
+page {
+  /* 定义主题颜色 */
+  --themeColor: #eb4450;
+  /* 
+    定义统一字体大小
+    1px = 2rpx
+  */
+  font-size: 28rpx;
+
+}
+
+image {
+  width: 100%;
+}

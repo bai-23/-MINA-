@@ -1,0 +1,6 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "支付中心",
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"dark"
+}
